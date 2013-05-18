@@ -15,10 +15,10 @@
 1. Beeframework快速入门
 1. hello world
 1. 了解mvc
-	1. board
-	1. controller
-	1. model
-	1. view
+	1.1 board
+	1.1 controller
+	1.1 model
+	1.1 view
 1. 如何与老项目继承
 	
 第二部分：详解
